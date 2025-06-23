@@ -51,9 +51,6 @@ const routes = [
         name: 'haltech',
         component: Index
     },
-
-
-
 ];
 
 const router = createRouter({
